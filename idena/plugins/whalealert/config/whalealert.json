@@ -7,9 +7,10 @@
     "exchanges": {
         "qTrade": "0x83B8A2F9Bd1bE7f1fB496ec91eB0C6983cD38725",
         "Hotbit": "0x4E55380bD90b754615A779FC3C4cf949481875CB"
+        "Pancake":"0x98D16d7021930b788135dD834983394fF2De9869"
     },
     "wallets": {
-        "Dalik": ["0x989DAF4E639ea7438029fdBD3B04c79553F7164C"]
+        "Dalik": ["0xDDDD06adBF37d5F7997E61e410d567DDC56AE79E"]
     },
     "ad_url": "https://api.idena.org/api/address/",
     "tx_url": "https://scan.idena.io/transaction/",
