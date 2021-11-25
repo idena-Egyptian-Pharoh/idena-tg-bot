@@ -3,7 +3,7 @@ import os
 # CoinGecko ID
 CG_ID = "idena"
 # CoinPaprika ID
-CP_ID = "dna-idena"
+CP_ID = "Idna-idena"
 
 # Project folders
 DIR_SRC = os.path.basename(os.path.dirname(__file__))
