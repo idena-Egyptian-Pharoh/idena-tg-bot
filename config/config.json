@@ -1,7 +1,7 @@
 {
     "admin": {
         "ids":  [
-            134166731
+            your_tg_id
         ],
         "notify_on_error": true
     },
