@@ -11,7 +11,7 @@ from idena.qtrade import QtradeAPI, QtradeAuth
 class Price(IdenaPlugin):
 
     link = f"\n👉 https://idena.today 👈"
-    _market = "DNA_BTC"
+    _market = "IDNA_BTC"
 
     @IdenaPlugin.threaded
     @IdenaPlugin.send_typing
